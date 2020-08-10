@@ -22,7 +22,7 @@ user:
   pic: /assets/img/cat.jpg
   picAlt: "catbook"
   job: 微信公众号：南柯酒馆
-  aboutme: true comment this out if you don't need the 'about' page.
+  #aboutme: true comment this out if you don't need the 'about' page.
 
 exclude:
   - README.md
