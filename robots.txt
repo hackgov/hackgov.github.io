@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+黑客请你绕道
