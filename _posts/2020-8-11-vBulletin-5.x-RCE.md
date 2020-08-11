@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 title:vBulletin 5.x RCE 检测脚本
 categories: [dev]
