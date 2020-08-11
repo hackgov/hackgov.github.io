@@ -65,7 +65,6 @@ register_poc(TestPOC)
 ### 漏洞检测脚本 Github地址：
 
 > https://github.com/hackgov/article/blob/master/vBulletin%205.x%20RCE.py
-
 > #### 基于POCsuite3框架运行
 
 
