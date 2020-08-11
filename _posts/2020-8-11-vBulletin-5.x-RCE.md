@@ -1,9 +1,8 @@
 ---
-title:vBulletin 5.x RCE 检测脚本
+title: vBulletin 5.x RCE 检测脚本
 categories: [dev]
 comments: true
 ---
-
 #### 参考链接：利用vBulletin：“补丁失败的故事”
 > https://blog.exploitee.rs/2020/exploiting-vbulletin-a-tale-of-patch-fail/
 
